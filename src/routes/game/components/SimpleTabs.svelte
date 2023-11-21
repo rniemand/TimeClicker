@@ -54,6 +54,7 @@
 		cursor: pointer;
 		text-decoration: none;
 		color: inherit;
+		text-align: center;
 	}
 	.tab:last-child {
 		margin-right: 0;
